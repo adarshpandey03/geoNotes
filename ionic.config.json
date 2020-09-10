@@ -1,0 +1,7 @@
+{
+  "name": "geo-notes",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
